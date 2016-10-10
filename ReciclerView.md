@@ -9,7 +9,7 @@ una lista, la cual es tan granade que no cabe en nuestra pantalla, y es necesari
 en este caso una ReciclerView permite reciclar targetas para mostrar la informacion mas actual e ir eliminando  
 la información mas antigua. A continuación en la **Figura 1** se muestra un ejemplo.  
 
-![][ReciclerView.gif "Figura 1. Ejemplo de ReciclerView."]
+![](ReciclerView.gif "Figura 1. Ejemplo de ReciclerView.")
 
 
 El ReciclerView esta conformado por 5 clases:
